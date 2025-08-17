@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things;Code+%7C%7C+Creative+%7C%7C+Coffee" alt="Typing SVG" />
 
 ### 🎓 Developer & Tech Enthusiast  
-### 💻 Passionate about **.NET, AI, Python and Machine Learning**  
+### 💻 Passionate about **AI and Machine Learning**  
 ### 🌱 Currently exploring **Deep Learning & Computer Vision**
 
 ---
